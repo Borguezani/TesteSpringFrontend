@@ -36,7 +36,7 @@ Frontend da aplicação de gerenciamento de clientes desenvolvido com React, Typ
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Borguezani/TesteSpringFrontend.git
-cd teste-spring-front
+cd TesteSpringFrontend
 ```
 
 2. Instale as dependências:
